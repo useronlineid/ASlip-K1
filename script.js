@@ -101,7 +101,7 @@ function updateDisplay() {
     
     // Load background image
     const backgroundImage = new Image();
-    backgroundImage.src = 'https://github.com/useronlineid/ASlip-k1/blob/main/PNG-KBANK1.jpg?raw=true';
+    backgroundImage.src = 'https://github.com/useronlineid/DSlip-K1/blob/main/PNG-KBANK1.jpg?raw=true';
     backgroundImage.onload = function() {
         // Clear the canvas
         ctx.clearRect(0, 0, canvas.width, canvas.height);
